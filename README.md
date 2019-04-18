@@ -10,7 +10,7 @@ The aim of my final project was to make use of R's tidycensus package. I wanted 
 associated with the US Census. There are many ways one can split up this analysis. While some of the functions in this package focus
 on the national level, I went ahead and viewed some of these variables at the state level, partically in Florida.
 
-## Datasets and Variables
+### Datasets and Variables
 
-As the Census data is made available to the public, it is relatively easy to source this data. For the users convenience, ~25,000
-variables will be uploaded with the package in the file denoted as: census_variables.csv
+#### As the Census data is made available to the public, it is relatively easy to source this data. For the users convenience, ~25,000
+#### variables will be uploaded with the package in the file denoted as: census_variables.csv
