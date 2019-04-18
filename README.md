@@ -14,4 +14,4 @@ on the national level, I went ahead and viewed some of these variables at the st
 
 As the Census data is made available to the public, it is relatively easy to source this data. For the users convenience, ~25,000 variables will be uploaded with the package in the file denoted as: census_variables.csv.
 
-IMPORTANT NOTE: The second column of the .csv file is the variable indentify that will be used in the data analysis.
+IMPORTANT NOTE: The second column of the .csv file is the variable indentify that was used in the data analysis.
