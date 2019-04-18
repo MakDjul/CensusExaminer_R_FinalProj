@@ -1,0 +1,14 @@
+Package: CensusExaminer
+Title: Examine a few of the many variables generated from the US Census 
+Version: 0.0.9000
+Authors@R: person("Mak", "Djulbegovic", email = "makdjulbegovic@gmail.com", role = c("aut", "cre"))
+Description: By way of tidycensus, the focus of this package is to analyze the census data through a variety of
+    lenses. There are many census variables available, which can be seen in 'census_variables.csv'. At first, 
+    the census variables were subject to a nation wide interpretation, accounting for state and county
+    levels. In addition, due to this package developers roots in Florida, this package was aimed to further
+    analyze these variables.
+Depends: R(>= 3.5.2), devtools, roxygen2, tidycensus, viridis, ggplot2
+License: CCO
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
