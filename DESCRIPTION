@@ -6,7 +6,7 @@ Description: By way of tidycensus, the focus of this package is to analyze the c
     lenses. There are many census variables available, which can be seen in 'census_variables.csv'. At first, 
     the census variables were subject to a nation wide interpretation, accounting for state and county
     levels. In addition, due to this package developers roots in Florida, this package was aimed to further
-    analyze these variables.
+    analyze Census variables at a lower-level.
 Depends: R(>= 3.5.2), devtools, roxygen2, tidycensus, viridis, ggplot2
 License: CCO
 Encoding: UTF-8
