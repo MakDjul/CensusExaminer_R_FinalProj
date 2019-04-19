@@ -8,6 +8,7 @@ census_api_key("YOUR API KEY GOES HERE")
 total_doctorates_bystate <- tidycensus::get_acs(geography = "state", variables = "B15003_025",
                                               shift_geo = TRUE, geometry = TRUE)
 
+#Produce graph - print function is built in, user only needs to call function
 doctorates_state_graph <- print(ggplot(total_doctorates_bystate) +
      geom_sf(aes(fill = estimate), color = NA) +
      coord_sf(datum = NA) +
