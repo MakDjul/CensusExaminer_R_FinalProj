@@ -2,7 +2,7 @@
 \alias{Miami_graph_no_insurance}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+Miami_graph_no_insurance
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
