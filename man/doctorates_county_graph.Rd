@@ -2,7 +2,7 @@
 \alias{doctorates_county_graph}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+doctorates_county_graph
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
