@@ -2,7 +2,7 @@
 \alias{FL_graph_median_rent_county}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+FL_graph_median_rent_county
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
