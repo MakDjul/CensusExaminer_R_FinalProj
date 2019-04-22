@@ -2,7 +2,7 @@
 \alias{total_doctorates_bycounty}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+total_doctorates_bycounty
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
